@@ -32,6 +32,7 @@ article {
     display: flex;
     white-space: nowrap;
     overflow-x: scroll;
+    touch-action: none;
 }
 .carousel::-webkit-scrollbar{
     display: none;
